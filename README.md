@@ -12,7 +12,7 @@ This project is a frontend implementation of an e-commerce website developed usi
 
 ## Deployment
 
-The project is deployed and accessible via the following link: [Appscrip task]()
+The project is deployed and accessible via the following link: [Appscrip task](https://appscrip-pied.vercel.app/)
 
 ## Created By
 
