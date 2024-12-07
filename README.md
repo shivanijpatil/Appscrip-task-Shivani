@@ -16,7 +16,7 @@ The project is deployed and accessible via the following link: [Appscrip task](h
 
 ## Created By
 
-This project is created by **Shivani Patil**  
+This project is created by - **Shivani Patil**  
 
 ## Technologies Used
 
